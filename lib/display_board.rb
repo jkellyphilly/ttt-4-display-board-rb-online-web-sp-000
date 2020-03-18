@@ -7,5 +7,3 @@ def display_board(current_board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
   puts "-----------"
   puts " #{current_board[6]} | #{current_board[7]} | #{current_board[8]} "
 end
-
-display_board
